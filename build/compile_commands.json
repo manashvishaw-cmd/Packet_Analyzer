@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/KIIT/Documents/p/Packet_analyzer/build",
+  "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\18\\BuildTools\\VC\\Tools\\MSVC\\14.52.37025\\bin\\Hostx86\\x86\\cl.exe\"  /nologo /TP  -IC:\\Users\\KIIT\\Documents\\p\\Packet_analyzer\\include /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /FoCMakeFiles\\packet_analyzer.dir\\src\\main.cpp.obj /FdCMakeFiles\\packet_analyzer.dir\\ /FS -c C:\\Users\\KIIT\\Documents\\p\\Packet_analyzer\\src\\main.cpp",
+  "file": "C:/Users/KIIT/Documents/p/Packet_analyzer/src/main.cpp",
+  "output": "CMakeFiles/packet_analyzer.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/KIIT/Documents/p/Packet_analyzer/build",
+  "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\18\\BuildTools\\VC\\Tools\\MSVC\\14.52.37025\\bin\\Hostx86\\x86\\cl.exe\"  /nologo /TP  -IC:\\Users\\KIIT\\Documents\\p\\Packet_analyzer\\include /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /FoCMakeFiles\\packet_analyzer.dir\\src\\pcap_reader.cpp.obj /FdCMakeFiles\\packet_analyzer.dir\\ /FS -c C:\\Users\\KIIT\\Documents\\p\\Packet_analyzer\\src\\pcap_reader.cpp",
+  "file": "C:/Users/KIIT/Documents/p/Packet_analyzer/src/pcap_reader.cpp",
+  "output": "CMakeFiles/packet_analyzer.dir/src/pcap_reader.cpp.obj"
+},
+{
+  "directory": "C:/Users/KIIT/Documents/p/Packet_analyzer/build",
+  "command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\18\\BuildTools\\VC\\Tools\\MSVC\\14.52.37025\\bin\\Hostx86\\x86\\cl.exe\"  /nologo /TP  -IC:\\Users\\KIIT\\Documents\\p\\Packet_analyzer\\include /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /FoCMakeFiles\\packet_analyzer.dir\\src\\packet_parser.cpp.obj /FdCMakeFiles\\packet_analyzer.dir\\ /FS -c C:\\Users\\KIIT\\Documents\\p\\Packet_analyzer\\src\\packet_parser.cpp",
+  "file": "C:/Users/KIIT/Documents/p/Packet_analyzer/src/packet_parser.cpp",
+  "output": "CMakeFiles/packet_analyzer.dir/src/packet_parser.cpp.obj"
+}
+]
